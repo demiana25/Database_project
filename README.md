@@ -26,3 +26,4 @@ It was created to manage and organize data for the **El Gouna Film Festival 2024
    ```bash
    git clone https://github.com/demiana25/Database_project.git
 
+
